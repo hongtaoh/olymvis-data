@@ -1,0 +1,231 @@
+NOC,0,1,2,4,MedalRate,CountryName,ISO
+AFG,124,2,0,0,0.02,Afghanistan,AFG
+AHO,73,0,1,0,0.03,"Bonaire, Sint Eustatius",BES
+ALB,63,0,0,0,0.0,Albania,ALB
+ALG,522,8,4,5,0.07,Algeria,DZA
+AND,53,0,0,0,0.0,Andorra,AND
+ANG,267,0,0,0,0.0,Angola,AGO
+ANT,133,0,0,0,0.0,Antigua and Barbuda,ATG
+ANZ,57,5,4,20,1.08,,
+ARG,2639,91,92,91,0.22,Argentina,ARG
+ARM,158,9,5,2,0.16,Armenia,ARM
+ARU,42,0,0,0,0.0,Aruba,ABW
+ASA,35,0,0,0,0.0,American Samoa,ASM
+AUS,5788,510,452,342,0.39,Australia,AUS
+AUT,2781,53,88,29,0.12,Austria,AUT
+AZE,221,25,12,7,0.29,Azerbaijan,AZE
+BAH,334,15,11,14,0.25,Bahamas,BHS
+BAN,55,0,0,0,0.0,Bangladesh,BGD
+BAR,218,1,0,0,0.0,Barbados,BRB
+BDI,37,0,1,1,0.15,Burundi,BDI
+BEL,3161,166,193,96,0.26,Belgium,BEL
+BEN,71,0,0,0,0.0,Benin,BEN
+BER,204,1,0,0,0.0,Bermuda,BMU
+BHU,36,0,0,0,0.0,Bhutan,BTN
+BIH,73,0,0,0,0.0,Bosnia and Herzegovina,BIH
+BIZ,76,0,0,0,0.0,Belize,BLZ
+BLR,1122,66,40,18,0.17,Belarus,BLR
+BOH,141,11,1,0,0.08,,
+BOL,121,0,0,0,0.0,Bolivia,BOL
+BOT,89,0,1,0,0.02,Botswana,BWA
+BRA,3309,191,175,109,0.26,Brazil,BRA
+BRN,123,1,1,1,0.06,Bahrain,BHR
+BRU,10,0,0,0,0.0,Brunei Darussalam,BRN
+BUL,2605,141,142,53,0.22,Bulgaria,BGR
+BUR,44,0,0,0,0.0,Burkina Faso,BFA
+CAF,67,0,0,0,0.0,Central African Republic,CAF
+CAM,63,0,0,0,0.0,Cambodia,KHM
+CAN,6119,344,239,158,0.21,Canada,CAN
+CAY,80,0,0,0,0.0,Cayman Islands,CYM
+CGO,105,0,0,0,0.0,Congo (Brazzaville),COG
+CHA,41,0,0,0,0.0,Chad,TCD
+CHI,720,20,9,3,0.07,Chile,CHL
+CHN,3414,258,317,334,0.52,China,CHN
+CIV,190,1,1,1,0.04,Côte d'Ivoire,CIV
+CMR,288,1,1,20,0.27,Cameroon,CMR
+COD,93,0,0,0,0.0,Congo (Kinshasa),COD
+COK,40,0,0,0,0.0,Cook Islands,COK
+COL,1039,14,9,5,0.05,Colombia,COL
+COM,19,0,0,0,0.0,Comoros,COM
+CPV,18,0,0,0,0.0,Cape Verde,CPV
+CRC,236,2,1,1,0.03,Costa Rica,CRI
+CRO,569,36,48,54,0.49,Croatia,HRV
+CRT,11,0,0,0,0.0,,
+CUB,2070,116,129,164,0.42,Cuba,CUB
+CYP,177,0,1,0,0.01,Cyprus,CYP
+CZE,883,32,24,15,0.15,Czech Republic,CZE
+DEN,2866,177,236,179,0.39,Denmark,DNK
+DJI,37,1,0,0,0.03,Djibouti,DJI
+DMA,18,0,0,0,0.0,Dominica,DMA
+DOM,270,2,2,3,0.06,Dominican Republic,DOM
+ECU,275,0,1,1,0.02,Ecuador,ECU
+EGY,1592,12,8,7,0.03,Egypt,EGY
+ERI,42,1,0,0,0.02,Eritrea,ERI
+ESA,218,0,0,0,0.0,El Salvador,SLV
+ESP,4420,135,243,109,0.22,Spain,ESP
+EST,408,24,10,9,0.18,Estonia,EST
+ETH,323,22,9,22,0.34,Ethiopia,ETH
+EUN,430,67,61,92,0.86,,
+FIJ,215,0,0,13,0.23,Fiji,FJI
+FIN,3084,217,125,132,0.28,Finland,FIN
+FRA,9006,587,575,465,0.34,France,FRA
+FRG,2054,188,172,144,0.43,,
+FSM,26,0,0,0,0.0,Micronesia,FSM
+GAB,62,0,1,0,0.03,Gabon,GAB
+GAM,56,0,0,0,0.0,Gambia,GMB
+GBR,8932,620,729,636,0.42,United Kingdom,GBR
+GBS,21,0,0,0,0.0,Guinea-Bissau,GNB
+GDR,1261,227,277,339,1.02,,
+GEO,215,18,6,8,0.25,Georgia,GEO
+GEQ,40,0,0,0,0.0,Equatorial Guinea,GNQ
+GER,5843,649,538,592,0.54,Germany,DEU
+GHA,335,22,1,0,0.07,Ghana,GHA
+GRE,2738,84,109,62,0.18,Greece,GRC
+GRN,52,0,1,1,0.11,Grenada,GRD
+GUA,409,0,1,0,0.0,Guatemala,GTM
+GUI,73,0,0,0,0.0,Guinea,GIN
+GUM,111,0,0,0,0.0,Guam,GUM
+GUY,101,1,0,0,0.01,Guyana,GUY
+HAI,99,5,1,1,0.1,Haiti,HTI
+HKG,669,1,2,1,0.01,Hong Kong,HKG
+HON,186,0,0,0,0.0,Honduras,HND
+HUN,5006,363,328,432,0.45,Hungary,HUN
+INA,371,13,17,11,0.22,Indonesia,IDN
+IND,1188,40,19,131,0.44,India,IND
+IOA,88,3,1,1,0.1,,
+IRI,644,29,21,18,0.2,Iran,IRN
+IRL,1247,13,13,9,0.06,Ireland,IRL
+IRQ,231,1,0,0,0.0,Iraq,IRQ
+ISL,409,2,15,0,0.08,Iceland,ISL
+ISR,629,7,1,1,0.02,Israel,ISR
+ISV,238,0,1,0,0.01,"Virgin Islands, U.S.",VIR
+ITA,6771,454,474,518,0.42,Italy,ITA
+IVB,42,0,0,0,0.0,"Virgin Islands, British",VGB
+JAM,660,44,75,38,0.42,Jamaica,JAM
+JOR,79,0,0,1,0.05,Jordan,JOR
+JPN,5486,333,287,230,0.29,Japan,JPN
+KAZ,761,29,22,19,0.18,Kazakhstan,KAZ
+KEN,662,31,41,34,0.32,Kenya,KEN
+KGZ,209,2,1,0,0.02,Kyrgyzstan,KGZ
+KIR,11,0,0,0,0.0,Kiribati,KIR
+KOR,3140,175,206,171,0.34,"Korea, South",KOR
+KOS,7,0,0,1,0.5,,
+KSA,224,5,1,0,0.03,Saudi Arabia,SAU
+KUW,282,2,0,0,0.01,Kuwait,KWT
+LAO,54,0,0,0,0.0,Laos,LAO
+LAT,433,6,11,3,0.09,Latvia,LVA
+LBA,84,0,0,0,0.0,Libya,LBY
+LBR,74,0,0,0,0.0,Liberia,LBR
+LCA,28,0,0,0,0.0,Saint Lucia,LCA
+LES,66,0,0,0,0.0,Lesotho,LSO
+LIB,234,2,2,0,0.03,Lebanon,LBN
+LIE,93,0,0,0,0.0,Liechtenstein,LIE
+LTU,477,48,7,6,0.16,Lithuania,LTU
+LUX,964,0,2,4,0.02,Luxembourg,LUX
+MAD,117,0,0,0,0.0,Madagascar,MDG
+MAL,45,0,0,0,0.0,,
+MAR,609,12,5,6,0.07,Morocco,MAR
+MAS,514,5,11,0,0.05,Malaysia,MYS
+MAW,87,0,0,0,0.0,Malawi,MWI
+MDA,183,5,3,0,0.06,Moldova,MDA
+MDV,49,0,0,0,0.0,Maldives,MDV
+MEX,2700,54,26,30,0.08,Mexico,MEX
+MGL,427,14,10,2,0.09,Mongolia,MNG
+MHL,14,0,0,0,0.0,,
+MKD,61,1,0,0,0.02,Macedonia,MKD
+MLI,92,0,0,0,0.0,Mali,MLI
+MLT,116,0,0,0,0.0,Malta,MLT
+MNE,75,0,14,0,0.31,,
+MON,135,1,0,0,0.01,Monaco,MCO
+MOZ,76,1,0,1,0.06,Mozambique,MOZ
+MRI,143,1,0,0,0.01,Mauritius,MUS
+MTN,29,0,0,0,0.0,Mauritania,MRT
+MYA,111,0,0,0,0.0,Myanmar,MMR
+NAM,73,0,4,0,0.1,Namibia,NAM
+NBO,2,0,0,0,0.0,,
+NCA,129,0,0,0,0.0,Nicaragua,NIC
+NED,4246,371,302,245,0.38,Netherlands,NLD
+NEP,88,0,0,0,0.0,Nepal,NPL
+NFL,1,0,0,0,0.0,,
+NGR,783,46,30,23,0.22,Nigeria,NGA
+NIG,45,1,1,0,0.06,Niger,NER
+NOR,2008,167,196,227,0.56,Norway,NOR
+NRU,13,0,0,0,0.0,Nauru,NRU
+NZL,1915,82,55,90,0.26,New Zealand,NZL
+OMA,66,0,0,0,0.0,Oman,OMN
+PAK,439,34,45,42,0.52,Pakistan,PAK
+PAN,136,2,0,1,0.04,Panama,PAN
+PAR,117,0,17,0,0.25,Paraguay,PRY
+PER,507,0,14,1,0.06,Peru,PER
+PHI,676,7,3,0,0.02,Philippines,PHL
+PLE,21,0,0,0,0.0,Palestine,PSE
+PLW,25,0,0,0,0.0,Palau,PLW
+PNG,108,0,0,0,0.0,Papua New Guinea,PNG
+POL,4327,242,185,111,0.22,Poland,POL
+POR,1460,26,11,4,0.04,Portugal,PRT
+PRK,617,34,15,16,0.19,"Korea, North",PRK
+PUR,881,6,2,1,0.02,Puerto Rico,PRI
+QAT,187,4,1,0,0.03,Qatar,QAT
+RHO,12,0,0,0,0.0,,
+ROT,12,0,0,0,0.0,,
+ROU,3080,290,200,161,0.36,Romania,ROU
+RSA,1555,52,47,32,0.16,South Africa,ZAF
+RUS,2678,331,278,296,0.58,Russian Federation,RUS
+RWA,56,0,0,0,0.0,Rwanda,RWA
+SAA,93,0,0,0,0.0,,
+SAM,63,0,0,0,0.0,Samoa,WSM
+SCG,236,26,26,12,0.42,,
+SEN,374,0,1,0,0.01,Senegal,SEN
+SEY,111,0,0,0,0.0,Seychelles,SYC
+SGP,340,4,4,1,0.05,,
+SKN,42,0,0,0,0.0,Saint Kitts and Nevis,KNA
+SLE,114,0,0,0,0.0,Sierra Leone,SLE
+SLO,477,15,9,6,0.11,Slovenia,SVN
+SMR,144,0,0,0,0.0,San Marino,SMR
+SOL,27,0,0,0,0.0,Solomon Islands,SLB
+SOM,32,0,0,0,0.0,Somalia,SOM
+SRB,275,41,29,15,0.44,Serbia,SRB
+SRI,144,0,2,0,0.03,Sri Lanka,LKA
+SSD,3,0,0,0,0.0,,
+STP,15,0,0,0,0.0,Sao Tome and Principe,STP
+SUD,106,0,1,0,0.02,Sudan,SDN
+SUI,3587,139,178,99,0.22,Switzerland,CHE
+SUR,67,1,0,1,0.07,Suriname,SUR
+SVK,467,12,17,13,0.19,Slovakia,SVK
+SWE,4968,358,396,354,0.42,Sweden,SWE
+SWZ,64,0,0,0,0.0,Swaziland,SWZ
+SYR,153,1,1,1,0.04,Syria,SYR
+TAN,159,0,2,0,0.02,Tanzania,TZA
+TCH,3039,107,144,79,0.21,,
+TGA,44,0,1,0,0.04,Tonga,TON
+THA,711,13,8,9,0.09,Thailand,THA
+TJK,56,2,1,1,0.13,Tajikistan,TJK
+TKM,54,0,0,0,0.0,Turkmenistan,TKM
+TLS,8,0,0,0,0.0,Timor-Leste,TLS
+TOG,55,1,0,0,0.02,Togo,TGO
+TPE,951,18,28,3,0.09,Chinese Taipei,TWN
+TTO,336,17,8,7,0.17,Trinidad and Tobago,TTO
+TUN,548,7,3,3,0.04,Tunisia,TUN
+TUR,1083,28,27,40,0.21,Turkey,TUR
+TUV,7,0,0,0,0.0,Tuvalu,TUV
+UAE,142,1,0,1,0.03,United Arab Emirates,ARE
+UAR,121,1,1,0,0.02,,
+UGA,253,2,3,2,0.06,Uganda,UGA
+UKR,1791,95,51,42,0.18,Ukraine,UKR
+UNK,2,0,0,0,0.0,,
+URS,2559,596,635,832,1.12,,
+URU,512,30,2,31,0.27,Uruguay,URY
+USA,10062,1197,1333,2472,0.91,United States of America,USA
+UZB,431,17,7,9,0.14,Uzbekistan,UZB
+VAN,35,0,0,0,0.0,Vanuatu,VUT
+VEN,903,10,3,2,0.03,Venezuela,VEN
+VIE,150,0,3,1,0.06,Vietnam,VNM
+VIN,42,0,0,0,0.0,Saint Vincent and the,VCT
+VNM,62,0,0,0,0.0,,
+WIF,15,5,0,0,0.25,,
+YAR,11,0,0,0,0.0,,
+YEM,32,0,0,0,0.0,Yemen,YEM
+YMD,5,0,0,0,0.0,,
+YUG,1663,92,161,130,0.46,,
+ZAM,181,1,1,0,0.02,Zambia,ZMB
+ZIM,287,1,4,17,0.25,Zimbabwe,ZWE
