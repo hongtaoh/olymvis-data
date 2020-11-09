@@ -39,5 +39,5 @@ MIT
 
 ## Contribute 
 
-Contact [Hongtao](https://hongtaoh.com/) or [Chris](https://github.com/zihfang/) if you have any suggestions or questions!
+Contact [Hongtao](https://hongtaoh.com/en/en-vitae/) or [Chris](https://github.com/zihfang/) if you have any suggestions or questions!
 
