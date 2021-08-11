@@ -13,6 +13,10 @@ Other complementary data sets:
 
 - [continent_4.xlsx](https://github.com/hongtaoh/olymvis-data/blob/master/data_sources/continent_4.xlsx) is used to extract the IOC (International Olympic Committee) country codes and the ISO-3166 three letter country codes. We merge `continent_4` with `continent` to get the corresponding continent name of each IOC code. We then merge this with [summer.csv](https://github.com/hongtaoh/olymvis-data/blob/master/output/summer.csv) to produce [continent_percentage_tidy](https://github.com/hongtaoh/olymvis-data/blob/master/output/continent_percentage_tidy.csv) and [continent_percentage_untidy](https://github.com/hongtaoh/olymvis-data/blob/master/output/continent_percentage_untidy.csv), two of which we used to visualize [changes in female particiation in the Olympics in different continents](https://olymvis.netlify.app/vis2/).
 
+## Scripts
+
+We used [these scripts](https://github.com/hongtaoh/olymvis-data/tree/master/scripts) to produce the results in [output](https://github.com/hongtaoh/olymvis-data/tree/master/output) from [data sources](https://github.com/hongtaoh/olymvis-data/tree/master/data_sources).
+
 ## Output
 
 - [`summer.csv`](https://github.com/hongtaoh/olymvis-data/blob/master/output/summer.csv) was produced by filtering only the Summer Olympics in [`athelet_events.csv`](https://github.com/hongtaoh/olymvis-data/blob/master/data_sources/Olympic_history/data/athlete_events.csv). It was processed by [extract_summer.py](https://github.com/hongtaoh/olymvis-data/blob/master/scripts/extract_summer.py).
@@ -24,10 +28,6 @@ Other complementary data sets:
 - [`medal_summary.csv`](https://github.com/hongtaoh/olymvis-data/blob/master/output/medal_summary.csv) was used to visualize home-field advantage. It was produced by [prepare_medal_summary.py](https://github.com/hongtaoh/olymvis-data/blob/master/scripts/prepare_medal_summary.py).
 
 - [`medal_efficiency.csv`](https://github.com/hongtaoh/olymvis-data/blob/master/output/medal_efficiency.csv) was used to visualize medal efficiency for each participating country or region. It was produced by [prepare_medal_efficiency.py](https://github.com/hongtaoh/olymvis-data/blob/master/scripts/prepare_medal_efficiency.py).
-
-## Scripts
-
-We used [these scripts](https://github.com/hongtaoh/olymvis-data/tree/master/scripts) to produce the results in [output](https://github.com/hongtaoh/olymvis-data/tree/master/output) from [data sources](https://github.com/hongtaoh/olymvis-data/tree/master/data_sources).
 
 ## Noteobooks
 
